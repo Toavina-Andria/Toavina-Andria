@@ -21,13 +21,7 @@
 </p>
 
 <!-- Top Languages – compact et minimaliste -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toavina-Andria&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=2d3748&text_color=4a5568&langs_count=6&border_radius=12" 
-    alt="Top Languages" 
-    width="380"
-  />
-</p>
+
 
 <br>
 
