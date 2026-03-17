@@ -38,6 +38,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Toavina-Andria.Toavina-Andria&left_color=gray&right_color=gray&left_text=visites" alt="visiteurs" />
 </p>
 
-<p align="center">
-  <i>"Un commit par jour éloigne le bug d'hier... et rapproche le skill de demain !"</i>
-</p>
