@@ -31,15 +31,6 @@
 
 <br>
 
-### 🌱 Ce que j'explore en ce moment
-- Fondamentaux du développement web (HTML/CSS/JavaScript)
-- Premiers pas en programmation orientée objet et structures de données
-- Projets universitaires et petits side-projects pour pratiquer
-
-### 📫 Comment me contacter
-- LinkedIn : [ajoute ton lien ici si tu en as un, ex: https://linkedin.com/in/toavina-andria]
-- Email : [ton email étudiant ou perso, ex: toavina.andria@example.com]
-- Autres : [Twitter/X, Discord, etc. si tu veux]
 
 <br>
 
