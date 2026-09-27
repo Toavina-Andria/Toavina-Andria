@@ -40,17 +40,7 @@ Je conçois des applications utiles, structurées et adaptées aux besoins réel
 
 ## Projets académiques
 
-### Supervision réseaux
 
-Application de supervision des activités dans un réseau local.
-
-**Technologies :** Java, Shell, Python
-
-### Gestion de vente de riz
-
-Application web dédiée à la gestion d’une entreprise de collecte et de revente de riz à Madagascar.
-
-**Technologies :** Java, Spring Boot, Thymeleaf, PostgreSQL
 
 ## Formation
 
