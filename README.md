@@ -1,72 +1,88 @@
-<h1 align="center">Salut ! Moi c'est Toavina 👋</h1>
 
-<p align="center">
-  Étudiant en L2 Informatique à <strong>IT University Madagascar</strong><br>
-  Passionné par le développement web, les applications et l'apprentissage continu.<br>
-  <i>Antananarivo, Madagascar 🇲🇬</i>
-</p>
+<div align="center">
+
+# Bonjour, je suis Toavina Andriamonta
+
+### Étudiant en Licence 2 Informatique | Développement web et logiciel
+
+Je conçois des applications utiles, structurées et adaptées aux besoins réels.
+
+<a href="mailto:teoandriamonta@gmail.com">Me contacter</a> ·
+<a href="tel:+261387905526">038 79 055 26</a> ·
+<a href="https://www.linkedin.com/in/toavina-andria/">LinkedIn</a> ·
+<a href="https://github.com/Toavina-Andria">GitHub</a>
+
+</div>
+
+## À propos de moi
+
+Étudiant en **Licence 2 Informatique** à l’IT Université Andoharanofotsy, je me spécialise dans le développement d’applications web et logicielles. J’aime apprendre, travailler en équipe et transformer une idée en solution concrète.
+
+## Compétences techniques
+
+### Langages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks et technologies
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Projets académiques
+
+### Supervision réseaux
+
+Application de supervision des activités dans un réseau local.
+
+**Technologies :** Java, Shell, Python
+
+### Gestion de vente de riz
+
+Application web dédiée à la gestion d’une entreprise de collecte et de revente de riz à Madagascar.
+
+**Technologies :** Java, Spring Boot, Thymeleaf, PostgreSQL
+
+## Formation
+
+- **Licence 2 Informatique** — IT Université, 2025–2026
+- **Licence 1 Informatique** — IT Université, 2024–2025
+- **Baccalauréat tertiaire** — ESCA Antanimena, 2024
+
+## Atouts
+
+- Esprit d’équipe et capacité à prendre des responsabilités
+- Capacité d’apprentissage et adaptabilité
+- Intérêt pour la conception d’interfaces avec Figma
+- Utilisation de Git/GitHub pour le suivi et le partage de projets
+
+## Langues
+
+| Langue | Niveau |
+| --- | --- |
+| Malgache | Langue maternelle |
+| Français | Avancé |
+| Anglais | Avancé |
+
+## Centres d’intérêt
+
+Lecture, musique classique, football, tennis, marche et randonnée.
+
+<div align="center">
 
 ---
 
-## 🧑‍💻 À propos de moi
+### Ouvert aux échanges et aux opportunités d’apprentissage
 
-- 🔭 Je suis actuellement étudiant en deuxième année d’informatique à <strong>IT University Madagascar</strong>.
-- 🌱 J’aime apprendre continuellement de nouvelles technologies, frameworks et langages.
-- 💡 Mes domaines de prédilection sont le développement web (Front & Back-end) et la création d’applications.
-- 💬 N’hésitez pas à me contacter pour discuter tech, collaborer ou partager des idées !
+<a href="mailto:teoandriamonta@gmail.com">teoandriamonta@gmail.com</a>
 
----
-
-## 🎓 Formation
-
-- **Licence 2 Informatique**, IT University Madagascar (Antananarivo)
-
----
-
-## 🛠️ Compétences
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat-square" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=222&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square" />
-</p>
-
----
-
-## 🌐 Contact & Réseaux
-
-<p align="center">
-  <a href="mailto:toavinaandr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=flat-square" />
-  </a>
-  <a href="https://www.linkedin.com/in/toavina-andria/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" />
-  </a>
-  <a href="https://github.com/Toavina-Andria">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" />
-  </a>
-  <!-- Ajoute d'autres liens si besoin -->
-</p>
-
----
-
-<!-- GitHub Stats – clean, transparent, adapté dark/light mode -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Toavina-Andria&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=2d3748&text_color=4a5568&icon_color=3182ce"
-    alt="Toavina's GitHub Stats" 
-    width="420"
-  />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Toavina-Andria.Toavina-Andria&left_color=gray&right_color=gray&left_text=visites" alt="visiteurs" />
-</p>
+</div>
