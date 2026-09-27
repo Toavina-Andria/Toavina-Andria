@@ -8,9 +8,7 @@
 Je conçois des applications utiles, structurées et adaptées aux besoins réels.
 
 <a href="mailto:teoandriamonta@gmail.com">Me contacter</a> ·
-<a href="tel:+261387905526">038 79 055 26</a> ·
-<a href="https://www.linkedin.com/in/toavina-andria/">LinkedIn</a> ·
-<a href="https://github.com/Toavina-Andria">GitHub</a>
+
 
 </div>
 
