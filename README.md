@@ -7,7 +7,7 @@
 
 Je conçois des applications utiles, structurées et adaptées aux besoins réels.
 
-<a href="mailto:teoandriamonta@gmail.com">Me contacter</a> ·
+<a href="mailto:teoandriamonta@gmail.com">Me contacter</a>
 
 
 </div>
