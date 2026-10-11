@@ -3,7 +3,7 @@
 
 # Bonjour, je suis Toavina Andriamonta
 
-### Étudiant en Licence 2 Informatique | Développement web et logiciel
+### Étudiant en Licence 3 Informatique | Développement web et logiciel
 
 Je conçois des applications utiles, structurées et adaptées aux besoins réels.
 
